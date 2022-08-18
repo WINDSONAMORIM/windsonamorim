@@ -2,7 +2,7 @@
 
 Tenho 32 anos e sou estudante de Desenvolvimento Web Full Stack na Growdev. Eu aspiro me tornar um desenvolvedor Full Stack e desenvolver softwares em geral e em múltiplas plataformas. 
 
-Gosto de me desafiar colocando em prática o que aprendo para solucinar o que me vem pela frente. Gostaria de trabalhar para alguma empresa e desenvolver software que tenha um impacto positivo na sociedade.
+Gosto de me desafiar colocando em prática o que aprendo para solucionar o que me vem pela frente. Gostaria de criar ou ajudar a desenvolver softwares que tenham um impacto positivo na sociedade.
 
 Nas horas vagas gosto de ficar pesquisando novidades e passando um tempo com minha família.
 
